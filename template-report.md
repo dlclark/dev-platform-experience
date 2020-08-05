@@ -4,7 +4,7 @@
 Submitted [Project Date] by [UserName]
 
 ## User Background 
-Our individual experiences shape us, so write some high-level things about your background here (years of experience with various languages, types of things you usually work on, etc).  This is hugely important for understanding where you're coming from when you analyze the platform. 
+Our individual experiences shape us, so write some high-level things about your background here (years of experience with various languages, types of things you usually work on, etc).  This is hugely important for understanding where you're coming from when you analyze the platform.  Be sure to include your initial familiarity with the language and platform you're writing about.
 
 ## The Sales Pitch
 Who's the language designed for? Why do people use it? Give the best sales pitch you can for using this language and framework. If you hate it, just use the official pitch.
@@ -13,10 +13,11 @@ Who's the language designed for? Why do people use it? Give the best sales pitch
 Start with your high-level impression. Did it fulfill the pitch? Did you like the language?  Was it fun? Utilitarian? Fast to write? Terrible to get installed? Boring? Was it a good language with a bad framework? Did you keep wishing for X?
 
 ## Useful Links
+* Link to your implementation code (to let people see the end result)
 * Link to the language homepage
 * Link to framework homepage
 * Link to language/platform ethos
-* Link to getting started
+* Link to getting started guides
 
 ## Detail
 

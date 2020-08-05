@@ -51,6 +51,9 @@ How was the community of developers?  If you searched for an answer did you find
 ### Ecosystem
 How usable is the ecosystem?  Did you find the libraries you needed?  How's the package system?
 
+### Deployment
+How was the deployment of the code to production?  Was it easy to automate or require manual steps?
+
 ### Runtime Performance
 How did the runtime performance stack up? Did you have to spend a lot of time optimizing or did it just kinda come out ok? _TODO: We'll need to figure out a way to standardize this_
 

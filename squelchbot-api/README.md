@@ -75,14 +75,7 @@ The match has concluded. Includes stats about the number of wins for each bot.
 Tells you a new game is starting.  Keep in mind that other games and matches may still be in progress at this point. 
 
 #### Request Body
-```json
-{ 
-    "dieCount" : <int>,
-    "maxPoints": <int>,
-    "botIndex" : <int>,
-    "botNames" : [ "name1", "name2" ]
-}
-```
+None
 
 #### Response
 `200 OK`
